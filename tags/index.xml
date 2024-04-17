@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Beautiful Hugo</title>
+    <link>http://localhost:4321/tags/</link>
+    <description>Recent content in Tags on Beautiful Hugo</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en</language>
+    <managingEditor>2021202147@ruc.edu.cn</managingEditor>
+    <webMaster>2021202147@ruc.edu.cn</webMaster>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://localhost:4321/tags/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photoswipe</title>
+      <link>http://localhost:4321/tags/photoswipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/photoswipe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bigimg</title>
+      <link>http://localhost:4321/tags/bigimg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/bigimg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:4321/tags/math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:4321/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:4321/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>2021202147@ruc.edu.cn</author>
+      <guid>http://localhost:4321/tags/markdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
